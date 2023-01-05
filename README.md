@@ -1,6 +1,6 @@
 👋 Hi, I’m @fabianhernandez
 👀 I’m interested in Machine Learning
-🌱 I’m currently learning some Excel, Sql and Python.
+🌱 I’m currently learning some Sql and Python.
 💞️ I’m looking to collaborate in anything that gives me experience
 📫 You can reach me at the following link in linkedin https://www.linkedin.com/in/fabian-hernandez99
 <!---
