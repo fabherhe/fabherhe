@@ -2,7 +2,7 @@
 
 👀 I’m interested in data science.
 
-🌱 I’m currently learning some Sql (specially mysql and postgres) and Python (with its libraries like pandas, numpy, sklearn and matplotlib.
+🌱 I’m currently learning some Sql (specially mysql and postgres) and Python (with its libraries like pandas, numpy, sklearn and matplotlib).
 
 💞️ I’m looking to collaborate in anything that gives me experience and money
 
