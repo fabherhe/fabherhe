@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning some Sql (specially mysql and postgres) and Python (with its libraries like pandas, numpy, sklearn and matplotlib).
 
-💞️ I’m looking to collaborate in anything related to economics, micro or macro. Feel specially confortable with that field.
+💞️ I am looking to collaborate on projects related to finance and the corporate world. 
 
 📫 You can reach me at the following link in linkedin https://www.linkedin.com/in/fabian-hernandez99
 
