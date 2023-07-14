@@ -1,12 +1,6 @@
 👋 Hi, I’m Fabian Hernandez
 
-👀 I’m interested in data science.
-
-🌱 I’m currently learning some Sql (specially mysql and postgres) and Python (with its libraries like pandas, numpy, sklearn and matplotlib).
-
-💞️ I am looking to collaborate on projects related to finance and the corporate world. 
-
-📫 You can reach me at the following link in linkedin https://www.linkedin.com/in/fabian-hernandez99
+👀 I have experience in Power Bi, Python and SQL.
 
 ✨ B2 level English, native Spanish.
 <!---
