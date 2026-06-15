@@ -1,6 +1,6 @@
 👋 Hi, I’m Fabian Hernandez
 
-👀 I have experience in Power Bi, Python and SQL.
+👀 I am a Data Engineer, I know Python, SQL, BI and Cloud tools.
 
 ✨ B2 level English, native Spanish.
 <!---
